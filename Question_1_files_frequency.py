@@ -17,6 +17,7 @@ def split(urls):
 
     print dict
 
+split(urls)
 
 
 
